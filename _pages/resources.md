@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sources & Methods
-permalink: methods
+title: Resources
+permalink: resources
 show-title: true
 ---
 
