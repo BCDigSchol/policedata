@@ -22,9 +22,9 @@ Apart from the diary that we have used, you can find more details about the Capt
 
 For general details about Boston during this time period:
 - [Boston Public Library's guide to 19th Century Newspapers ](https://guides.bpl.org/newspapers/massachusetts-newspapers-online) has a good collection of sources for the time period.
-- [City documents regarding prisons, 1839](https://findingaids.bc.edu/repositories/2/archival_objects/85198)
-- [Boston scrapbook beginning in 1826](https://findingaids.bc.edu/repositories/2/archival_objects/85448)
-- [Newspaper clipping scrapbook beginning in 1839](https://findingaids.bc.edu/repositories/2/archival_objects/85462)
+- [City documents regarding prisons, 1839](https://findingaids.bc.edu/repositories/2/archival_objects/85198) at Burns Library.
+- [Boston scrapbook beginning in 1826](https://findingaids.bc.edu/repositories/2/archival_objects/85448) at Burns Library.
+- [Newspaper clipping scrapbook beginning in 1839](https://findingaids.bc.edu/repositories/2/archival_objects/85462) at Burns Library.
 - [Boston City Census records](https://archives.boston.gov/repositories/2/resources/26) available at City of Boston Archive.
 - [A treasure trove of documents around legislations in Boston ](https://guides.bpl.org/BostonReports/documents) available at City of Boston Archive.
 - [Old Maps of Boston from Norman B. Leventhal Map & Education Center](https://www.bpl.org/resources-types/maps/) at Boston Public Library are a fantastic resource as well. 
