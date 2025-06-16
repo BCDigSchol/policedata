@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Findings
-permalink: findings
+title: Interesting Categories
+permalink: interesting_categories
 show-title: true
 ---
 
