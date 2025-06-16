@@ -5,12 +5,30 @@ permalink: resources
 show-title: true
 ---
 
-First, you should discuss what source(s) you used to gather or generate the data for this project. Don't simply mention them, consider them, as you would an historical source. What is their validity? Is there anything you might need to be critical of when examining the data? To see an example of someone thinking about a source, [see here](https://confederate-memorials-project.readthedocs.io/en/latest/transparency-report/).
+We understand that the data here is a bit overwhelming. But if you pair this up with the followineg sources, we believe you can find a lot of details about the city of Boston and its police during 1850s. 
 
-Second, you should outline *your* methods in this project. This should can include everything from how and why you gathered the data. Also include any choices you made in modifying, editing, or cleaning the data.
 
-Similarly, if you made a decision to use certain kinds of methods, this is where you justify it. *Why* did you use text analysis? *Why* did you use that specific tool for it?
+First and foremost - please take a look at the Burns Library Archival Collection at Boston College for this diary. 
+- [Link to collection finding aid](https://findingaids.bc.edu/repositories/2/archival_objects/47581)
+- [Online Scans are also available thanks to BC ](https://findingaids.bc.edu/repositories/2/archival_objects/47581)
 
-In short, this is where you can justify why you did what you did.
+One can also schedule a visit to the Burns Library reading room to access these documents in-person. Burns library is open to scholars and public to consult historical records. The timings for the visit and procedures can be found at the [Burns Library website.](https://libguides.bc.edu/burns) 
 
-For an example methods page, [see here](https://confederate-memorials-project.readthedocs.io/en/latest/processes/).
+
+Apart from the diary that we have used, one can find more details about the Captain Edward Harwell Savaage at: 
+
+- [Memoir by Edward H. Savage](https://bc.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99103340600001021&context=L&vid=01BC_INST:bclib&lang=en&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=creator,exact,Savage,%20Edward%20H.,AND&facet=creator,exact,Savage,%20Edward%20H.&facet=library,include,1021%E2%80%9331591680001021&mode=advanced&offset=0)
+- [History of BPD by Edward H. Savage](https://bc.primo.exlibrisgroup.com/permalink/01BC_INST/1nm9l4s/alma99103343090001021)
+- [Edward H. Savage collection including some of his own poetry](https://findingaids.bc.edu/repositories/2/resources/201)
+- [City documents regarding prisons, 1839](https://findingaids.bc.edu/repositories/2/archival_objects/85198)
+- [Boston scrapbook beginning in 1826](https://findingaids.bc.edu/repositories/2/archival_objects/85448)
+- [Newspaper clipping scrapbook beginning in 1839](https://findingaids.bc.edu/repositories/2/archival_objects/85462)
+
+
+For details about Boston during this time period:
+- [Boston Public Library's guide to 19th Century Newspapers ](https://guides.bpl.org/newspapers/massachusetts-newspapers-online) has a good collection of sources for the time period.
+- [Boston City Census records](https://archives.boston.gov/repositories/2/resources/26) available at City of Boston Archive.
+- [A treasure trove of documents around legislations in Boston ](https://guides.bpl.org/BostonReports/documents) available at City of Boston Archive.
+- [Old Maps of Boston from Norman B. Leventhal Map & Education Center](https://www.bpl.org/resources-types/maps/) at Boston Public Library are a fantastic resource as well. 
+
+ 
