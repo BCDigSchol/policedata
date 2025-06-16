@@ -7,7 +7,7 @@ show-title: true
 
 This website is a result of the project under ILA (Institute of Liberal Arts) internship at Boston College over Summer 2025. It is also supported by the Digital Scholarship Group at Boston College. 
 
-The primary source for this project is the [Boston Police Station Number One (North End) Captain's record book, 1854-1859](https://library.bc.edu/iiif/view/MS2004_069_47581), located in and digitized by the [Burns Library](https://libguides.bc.edu/burns) at Boston College. The record book was written by Edward Hartwell Savage, then captain of the Boston Police Station Number One, which geographically corresponds to North End in Boston in late 19th century. Boston Police Department was established in May 1854, and the record book starts in June 1854, which means that the record book documents police activity in North End right after the police department was professionally established in Boston. 
+The primary source for this project is the [Boston Police Station Number One (North End) Captain's record book, 1854-1859](https://library.bc.edu/iiif/view/MS2004_069_47581), located in and digitized by the [Burns Library](https://libguides.bc.edu/burns) at Boston College. The record book was kept by Edward Hartwell Savage, then captain of the Boston Police Station Number One, which  corresponds to the North End neighborhood in Boston in late 19th century. Boston Police Department was established in May 1854, and the record book starts in June 1854, which means that the record book documents police activity in North End right after the police department was first professionally established in Boston. 
 
 The [Burns Library](https://libguides.bc.edu/burns) possesses several other resources that are relevant to this project. These resources are;
 
@@ -19,7 +19,7 @@ The [Burns Library](https://libguides.bc.edu/burns) possesses several other reso
 - [Newspaper clipping scrapbook beginning in 1839](https://findingaids.bc.edu/repositories/2/archival_objects/85462)
 
 
-You can also schedule a visit to the Burns Library reading room to access these documents in-person. Burns library is open to scholars and public to consult historical records. The timings for the visit and procedures can be found at the [Burns Library website.](https://libguides.bc.edu/burns) 
+You can schedule a visit to the Burns Library reading room to access these documents in-person. Burns library is open to scholars and public to consult historical records. The timings for the visit and procedures can be found at the [Burns Library website.](https://libguides.bc.edu/burns) 
 
 
 
