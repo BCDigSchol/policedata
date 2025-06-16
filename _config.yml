@@ -47,9 +47,3 @@ plugins:
     - jekyll-postcss-v2
 
 
-//title: Background  
-//submenu:
- // - title: Previous Scholarship
-     //   link: scholarship
-    //  - title: Source & Methods
-    //    link: methods
