@@ -1,8 +1,8 @@
-# jekyll-project-template
+# police ledger data
 
-Write a tagline here!
+Working with the Burns Library dataset from 1855-59.
 
-By Your Name, Boston College
+Munirmahedi Paviwala and Duygun Ruben, Boston College
 
 ## About
 
