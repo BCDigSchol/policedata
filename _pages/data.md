@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Previous Scholarship
-permalink: scholarship
+title: Data
+permalink: data
 show-title: true
 ---
 
