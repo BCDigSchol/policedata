@@ -18,13 +18,13 @@ Apart from the diary that we have used, you can find more details about the Capt
 - [Memoir by Edward H. Savage](https://bc.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99103340600001021&context=L&vid=01BC_INST:bclib&lang=en&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=creator,exact,Savage,%20Edward%20H.,AND&facet=creator,exact,Savage,%20Edward%20H.&facet=library,include,1021%E2%80%9331591680001021&mode=advanced&offset=0)
 - [History of BPD by Edward H. Savage](https://bc.primo.exlibrisgroup.com/permalink/01BC_INST/1nm9l4s/alma99103343090001021)
 - [Edward H. Savage collection including some of his own poetry](https://findingaids.bc.edu/repositories/2/resources/201)
-- [City documents regarding prisons, 1839](https://findingaids.bc.edu/repositories/2/archival_objects/85198)
-- [Boston scrapbook beginning in 1826](https://findingaids.bc.edu/repositories/2/archival_objects/85448)
-- [Newspaper clipping scrapbook beginning in 1839](https://findingaids.bc.edu/repositories/2/archival_objects/85462)
 
 
 For general details about Boston during this time period:
 - [Boston Public Library's guide to 19th Century Newspapers ](https://guides.bpl.org/newspapers/massachusetts-newspapers-online) has a good collection of sources for the time period.
+- [City documents regarding prisons, 1839](https://findingaids.bc.edu/repositories/2/archival_objects/85198)
+- [Boston scrapbook beginning in 1826](https://findingaids.bc.edu/repositories/2/archival_objects/85448)
+- [Newspaper clipping scrapbook beginning in 1839](https://findingaids.bc.edu/repositories/2/archival_objects/85462)
 - [Boston City Census records](https://archives.boston.gov/repositories/2/resources/26) available at City of Boston Archive.
 - [A treasure trove of documents around legislations in Boston ](https://guides.bpl.org/BostonReports/documents) available at City of Boston Archive.
 - [Old Maps of Boston from Norman B. Leventhal Map & Education Center](https://www.bpl.org/resources-types/maps/) at Boston Public Library are a fantastic resource as well. 
