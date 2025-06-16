@@ -1,10 +1,11 @@
 # change the followings to match your Github username and repo name
-baseurl: "/jekyll-project-template" # the name of your github repo
-url: "https://BCDigSchol.github.io" # the url of your github pages (change BCDigSchol to your username)
+baseurl: "/policedata/" # the name of your github repo
+url: "https://bcdigschol.github.io/policedata/" # the url of your github pages (change BCDigSchol to your username)
 
 # site information used in page title, meta data etc.
-title: "Your Project Name"
-description: Your Project Description @ Boston College
+title: "Working Title"
+description: Munir and Duygun's ILA Summer Internship Project using the Police Ledger from Burns
+
 
 # color theme for links
 theme-color: indigo # indigo|yellow|pink|green|stone|
@@ -13,18 +14,14 @@ theme-color: indigo # indigo|yellow|pink|green|stone|
 nav-menu:
   - title: Home
     link: index
-  - title: Background
-    submenu:
-      - title: Previous Scholarship
-        link: scholarship
-      - title: Source & Methods
-        link: methods
-  - title: Findings
-    link: findings
-  - title: Reflections
-    link: reflections
-  - title: Bibliography
-    link: bibliography
+  - title: About
+    link: about
+  - title: Interesting Categories
+    link: interesting_categories
+  - title: Resources
+    link: resources
+  - title: Data
+    link: data
 
 # sets whether a search bar appears on the site header
 search-bar: false
@@ -48,3 +45,11 @@ plugins:
     - jekyll-feed
     - jekyll-paginate
     - jekyll-postcss-v2
+
+
+//title: Background  
+//submenu:
+ // - title: Previous Scholarship
+     //   link: scholarship
+    //  - title: Source & Methods
+    //    link: methods
