@@ -1,6 +1,6 @@
 # change the followings to match your Github username and repo name
 baseurl: "/policedata" # the name of your github repo
-url: "https://bcdigschol.github.io/policedata/" # the url of your github pages (change BCDigSchol to your username)
+url: "https://bcdigschol.github.io" # the url of your github pages (change BCDigSchol to your username)
 
 # site information used in page title, meta data etc.
 title: "Working Title"
