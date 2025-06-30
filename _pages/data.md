@@ -2,14 +2,23 @@
 layout: page
 title: Data
 permalink: data
-show-title: true
+show-title: false
 ---
+# June 1854- December 1859 Boston Police Station Number One (North End) Monthly Reports
 
-Here, you might discuss what previous scholarship has been written about your topic.
+This is our dataset made out of compiling the monthly logs of Captain Edward H. Savage (1812-1893). It is derived from the archives available at [Burns Library](https://libguides.bc.edu/burns) at Boston College. 
 
-You should make sure to investigate..
+For instance, the entry for June 1854 appears as follows: 
 
-1. Whatever important *traditional* (non-digital) work has been done on your subject. Because you will want to consider how your project impacts scholarship.
-2. Whatever important *digital* work has been done. If you are doing a digital text analysis of Dickens... has Dickens ever been analyzed using text analysis before? What about other authors of his era? Look for other existing digital work that is relevant, even indirectly.
+<p align="center">
+    <img src="assets/img/archive_screenshot.png" />
+</p>
 
-For an example of a scholarship page, [see here](https://confederate-memorials-project.readthedocs.io/en/latest/digital-methods-and-historical-scholarship/).
+
+We have tabulated the data in the following format:
+
+<p align="center">
+    <img src="assets/img/data_screenshot.png" />
+</p>
+
+The link to full data in a CSV format (can be opened in Excel) is [here](https://github.com/BCDigSchol/policedata/blob/main/data/police_data.csv)
