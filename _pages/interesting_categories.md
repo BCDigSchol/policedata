@@ -6,8 +6,8 @@ show-title: true
 ---
 
 In this page, we introduce explanations a few crime categories that were featured in the [police ledger](https://library.bc.edu/iiif/view/MS2004_069_47581) and appeared consistently in it. We were interested because of two reasons: 
-1. Their unfamiliarity to contemporary readers
-2. Many contemporary readers would not consider these as "crime" today.
+a. Their unfamiliarity to contemporary readers
+b. Many contemporary readers would not consider these as "crime" today.
   
 At the end of this page we introduce a broader list of such categories that could be explored further by those who are interested in this topic. 
 
