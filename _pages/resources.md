@@ -27,6 +27,7 @@ For general details about Boston during this time period:
 - [Newspaper clipping scrapbook beginning in 1839](https://findingaids.bc.edu/repositories/2/archival_objects/85462) at Burns Library.
 - [Boston City Census records](https://archives.boston.gov/repositories/2/resources/26) available at City of Boston Archive.
 - [A treasure trove of documents around legislations in Boston ](https://guides.bpl.org/BostonReports/documents) available at City of Boston Archive.
-- [Old Maps of Boston from Norman B. Leventhal Map & Education Center](https://www.bpl.org/resources-types/maps/) at Boston Public Library are a fantastic resource as well. 
+- [Old Maps of Boston from Norman B. Leventhal Map & Education Center](https://www.bpl.org/resources-types/maps/) at Boston Public Library are a fantastic resource as well.
 
+Overall, we hope that these will help you find the details you need when working with our [dataset.](/data) 
  
