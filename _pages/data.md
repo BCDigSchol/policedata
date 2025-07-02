@@ -37,4 +37,13 @@ The dataset can feel overwhelming at first, if you don't know where to start we 
 We had to merge a few categories. We find it pertinent to share these details alongwith our reasoning of doing so. 
 However, if you want to know how the data was presented exactly in the record-book - please refer to the [Burns Library Archive's scans](https://library.bc.edu/iiif/view/MS2004_069_47581) directly. Here is a table of some of the merged categories that we aren't too sure of. 
 
-<iframe width="900" height="350" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT_F8PLH_erCqAsunMVOQQIFE9Zk1zRDv4JmPEVHF7XrcPNdq4uimRbrTP-VjQWu9aVulkNp-aslvvY/pubhtm!l?gid=37246008&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+| Category | Merged Category | Explanation |
+|---|---|---|
+| Otherwise | Absent sick and otherwise | In the interest of helping researchers identify broader patterns from the data, <br>we merged the categories of "time lost by sickness" and <br>"otherwise" into absent sick and otherwise. You can check the data sample sheet <br>to see unmerged values for these categories |
+| Time lost by sickness | Absent sick and otherwise | Same as above |
+| Truants | Stubborn & Truant Children | We strongly suspected that "truants" was simply a shortened version of the "stubborn<br>and truant children" category so we merged the former to the latter. <br>we merged the categories of "time lost by sickness" and <br>"otherwise" into absent sick and otherwise. You can check the data sample sheet <br>to see unmerged monthly values for these categories. |
+| Dangerous Buildings repaired (reported??) | Dangerous buildings reported/secured | In the interest of helping researchers identify broader patterns from the data, <br>we merged the categories of "dangerous building reported" and "dangerous buildings <br>secured" into a single category named "dangerous building reported/secured."  <br>You can check the data sample sheet  to see unmerged monthly values for these categories. |
+| Dangerous places secured | Dangerous buildings reported/secured | Same as above |
+| Defective fluid lamps reported | Defective Street Lamps Repaired/Reported | In the interest of helping researchers identify broader patterns from the data, <br>we merged the categories of "defective fluid lamps reported" and  "defective gas lamps reported" into a single category <br>named "defective street lamps reported."  You can check the data sample sheet to see <br>unmerged monthly values for these categories. |
+| Defective gas lamps reported | Defective Street Lamps Repaired/Reported | Same as above |
+| Defective Street Lamps Repaired | Defective Street Lamps Repaired/Reported | Same as above |
