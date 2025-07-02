@@ -21,9 +21,9 @@ We have tabulated the data in the following format:
     <img src="assets/img/data_screenshot.png" />
 </p>
 
-## The link to full data in a CSV format (can be opened in Excel) is [here](https://github.com/BCDigSchol/policedata/blob/main/data/police_data.csv)
+## You can download the full data in a CSV format (can be opened in Excel) from [here](https://github.com/BCDigSchol/policedata/blob/main/data/police_data.csv)
 
-The dataset can feel overwhelming at first, if you don't know where to start we would recommend you to check out a few of the [interesting categories](/interesting_categories) page for some ideas. Or you can also check out our [examples](/examples).
+The dataset can feel overwhelming at first, if you don't know where to start we would recommend you to check out a few of the [interesting categories](policedata/interesting_categories) page for some ideas. Or you can also check out our [examples](/policedata/examples).
 
 
 
