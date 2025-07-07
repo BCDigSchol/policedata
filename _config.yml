@@ -4,7 +4,7 @@ url: "https://bcdigschol.github.io" # the url of your github pages (change BCDig
 
 # site information used in page title, meta data etc.
 title: "Working Title"
-description: Munir and Duygun's ILA Summer Internship Project using the Police Ledger from Burns
+description: ILA Summer Internship Project using the Police Ledger from Burns
 
 
 # color theme for links
@@ -14,7 +14,7 @@ theme-color: indigo # indigo|yellow|pink|green|stone|
 nav-menu:
   - title: Home
     link: index
-  - title: About
+  - title: About Us
     link: about
   - title: Interesting Categories
     link: interesting_categories
@@ -26,9 +26,9 @@ nav-menu:
 # sets whether a search bar appears on the site header
 search-bar: false
 
-hide-footer: false # set to true to hide the footer
+hide-footer: true # set to true to hide the footer
 footer-message: Put Your Footer Message Here | CC BY-NC License
-footer-submessage:  By Your Name, with the Digital Scholarship Group, Boston College
+footer-submessage: ILA internship with Digital Scholarship Group, Boston College
 footer-submessage-link: https://ds.bc.edu
 
 # google-analytics: // if you want to use Google analytics, include your ID here
