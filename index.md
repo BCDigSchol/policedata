@@ -28,6 +28,7 @@ show-title: false
             
 <p> Above details about Captain Savage are generally known. But a less popular fact about Captain Savage is that he maintained a ledger for tracking arrests, crimes and public services provided by the new police force under his supervision. This website focuses on that ledger. We invite you to explore that ledger and find out more about the 19th century history of Boston police.</p>
 
+---
 
 ## Archive details
 Captain Savage’s diary of monthly reports of the activity of the police is accessible to the public through the Burns Library archive at Boston College. The diary reports the activities of Police station one of North End, Boston. You can view the scanned version at the following link: [https://library.bc.edu/iiif/view/MS2004_069_47581](https://findingaids.bc.edu/repositories/2/archival_objects/47581).  
@@ -50,7 +51,7 @@ The diary includes a lot of information about the police activities during this 
 
 One can see that the top left quadrant of the image highlights the demography of the arrests and lodgings provided. (For more details on what 'Lodgings' refers here, please take a look at this page_ **[ADD LINK TO THIS OR SOMETHING]. **_ For more details on how we use pages like these and turn them into a dateset, please visit the [Data page](policedata/data).
 
-
+---
 
 ## Why is this archive important?
 
@@ -68,6 +69,8 @@ Captain Savage's ledger isn't just another dusty old record book – it's a gold
 
 Whether you're a history buff, a student researching 19th-century America, or just someone curious about how Boston became the city it is today, Captain Savage's ledger offers insights you won't find in any textbook.
 
+---
+
 ## How to use this site?
 
 For your best experience, we suggest the following uses to different pages:
@@ -79,7 +82,20 @@ For your best experience, we suggest the following uses to different pages:
 
 
 
+---
+END OF HOMEPAGE - REMOVE THE NEXT PARTS
 
+---
+
+---
+---
+---
+---
+---
+---
+---
+---
+---
 
 
 
