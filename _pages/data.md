@@ -23,6 +23,27 @@ We have tabulated the data in the following format:
 
 ## You can download the full data in a CSV format (can be opened in Excel) from [here](https://github.com/BCDigSchol/policedata/blob/main/data/police_data.csv)
 
+<h2>Preview of the Dataset</h2>
+<table id="data-table" class="display"></table>
+
+<link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+<script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+
+<script>
+fetch('{{ "/assets/data/data.json" | relative_url }}')
+  .then(response => response.json())
+  .then(data => {
+    const columns = Object.keys(data[0]).map(key => ({ title: key, data: key }));
+    $('#data-table').DataTable({
+      data: data,
+      columns: columns,
+      pageLength: 25,
+      lengthMenu: [10, 25, 50, 100],
+    });
+  });
+</script>
+
   
 
 The dataset can feel overwhelming at first, if you don't know where to start we would recommend you to check out a few of the [interesting categories](policedata/interesting_categories) page for some ideas. Or you can also check out our [examples](/policedata/examples).
