@@ -3,7 +3,19 @@ layout: page
 title: Home
 show-title: false
 ---
+<div class="person-container">
+        <!-- Left side: Photo and caption -->
+        <div class="person-photo-section">
+            <img src="/assets/img/Edward_Savage.png" 
+                 alt="Portrait of Captain Edward H. Savage" 
+                 class="person-photo">
+            <div class="photo-caption">
+                Edward Hartwell Savage (1812-1893). The first captain of Boston Police Station Number One at North End | Photo from <a href="https://archive.org/details/bostonpolicedepa0000well/page/12/mode/2up">Wells, Donna M </a>
+            </div>
+        </div>
 
+        <!-- Right side: Content (this is where your markdown gets rendered) -->
+<div class="person-content">
 
 ## Foundation of Boston Police in 1854 and Captain Edward H. Savage
 
@@ -16,6 +28,8 @@ In 1865, the book titled *A chronological history of the Boston watch and police
 
 The above mentioned things are what he is known for. But a less popular fact about Captain Savage is that he maintained a very nice report ledger of tracking arrests, crimes and public services provided by this new force under his supervision in North End. This website focuses on that ledger. We invite you to explore that ledger and find out more about the 19th century history of Boston police. 
 
+</div>
+</div>
 
 ## Archive details
 Captain Savage’s diary of monthly reports of the activity of the police is accessible to the public through the Burns Library archive at Boston College. The diary reports the activities of Police station one of North End, Boston. You can view the scanned version at the following link: [https://library.bc.edu/iiif/view/MS2004_069_47581](https://findingaids.bc.edu/repositories/2/archival_objects/47581).  
