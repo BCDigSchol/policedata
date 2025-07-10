@@ -20,11 +20,7 @@ show-title: false
             
 <p>Until 1854, Boston's policing was handled by the City Watch, a volunteer system of patrol and policing.<br>However, in 1854, it was replaced by a police system modelled after the London's Metropolitan police. According to <a href="https://police.boston.gov/history/">Boston Police's history</a> page:</p>
             
-<blockquote>
-<p>In 1854, the City replaced the Watch organizations with the Boston Police Department, which consisted of 250 officers. Each officer received payment of $2 per shift, walked his own beat, and was forbidden to hold outside employment. Rather than use the billhook of the old Watch, officers began to carry a 14-inch club. In the proceeding years, the City annexed several neighboring towns and expanded police services to those areas.</p>
-            </blockquote>
-            
-<p>The police station at 152 North Street in the North End was known as the <em>Boston Police Station Number One</em> (North End). Edward Savage (photo above) was the first captain of this police station.<br>Captain Savage was promoted to the position of Deputy Chief in 1861.<br>In 1870, to the title of Chief of Police. He retired in 1878.<br><br>He was keen about the history of Boston and wrote two major works about the history of policing in Boston.</p>
+<p>The police station at 152 North Street, North End was known as the <em>Boston Police Station Number One</em>. Edward Savage (left photo) was the first captain of this police station. Captain Savage was promoted to the position of Deputy Chief in 1861.<br>In 1870, to the title of Chief of Police. He retired in 1878.<br><br>He was keen about the history of Boston and wrote two major works about the history of policing in Boston.</p>
 </div>
 </div>
 
