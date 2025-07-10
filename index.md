@@ -4,10 +4,21 @@ title: Home
 show-title: false
 ---
 
-<p>[Work in progress page. Please ignore most of this]</p>
+
+## Foundation of Boston Police in 1854 and Captain Edward H. Savage
+
+Until 1854, Boston's policing was handled by the City Watch, a volunteer system of patrol and policing. However, in 1854, it was replaced by a police system modelled after the London’s Metropolitan police. According to [Boston Police Department’s history](https://police.boston.gov/history/) page:   
+    In 1854, the City replaced the Watch organizations with the Boston Police Department, which consisted of 250 officers. Each officer received payment of $2 per shift, walked his own beat, and was forbidden to hold outside employment. Rather than use the billhook of the old Watch, officers began to carry a 14-inch club. In the proceeding years, the City annexed several neighboring towns and expanded police services to those areas.
+
+The police station at 152 North Street in the North End was known as the *Boston Police Station Number One* (North End). Edward Savage (photo above) was the first captain of this police station. Captain Savage was promoted to the position of Deputy Chief in 1861\. In 1870, to the title of Chief of Police. He retired in 1878\. He was keen about the history of Boston and wrote two major works about the history of policing in Boston.
+
+In 1865, the book titled *A chronological history of the Boston watch and police, from 1631 to 1865; together with the Recollections of a Boston police office, or, Boston by daylight and gaslight, from the diary of an officer fifteen years in the service. By Edward H. Savage.*
+
+The above mentioned things are what he is known for. But a less popular fact about Captain Savage is that he maintained a very nice report ledger of tracking arrests, crimes and public services provided by this new force under his supervision in North End. This website focuses on that ledger. We invite you to explore that ledger and find out more about the 19th century history of Boston police. 
+
 
 ## Archive details
-Captain Savage’s diary of monthly reports of the activity of the police is accessible to the public through the Burns Library archive at Boston College. The diary reports the activities of Police station one of North End, Boston. You can view the scanned version at the following link: [https://library.bc.edu/iiif/view/MS2004_069_47581](https://library.bc.edu/iiif/view/MS2004_069_47581).  
+Captain Savage’s diary of monthly reports of the activity of the police is accessible to the public through the Burns Library archive at Boston College. The diary reports the activities of Police station one of North End, Boston. You can view the scanned version at the following link: [https://library.bc.edu/iiif/view/MS2004_069_47581](https://findingaids.bc.edu/repositories/2/archival_objects/47581).  
 
 The diary includes a lot of information about the police activities during this time period. Including but not limited to: 
 - Monthly report of arrests and public service duties conducted by the police (more on this in the [Data section](/policedata/data)
@@ -17,19 +28,15 @@ The diary includes a lot of information about the police activities during this 
 - Hierarchical structure of police during this time and the name of the person holding the top offices, including the mayor. 
 - Drawings of the official police badge from the time period.
 
-
-## Diary looks like the following:
-
 | ![police badge](assets/img/badge.jpg) | ![Yearly Reports](assets/img/yearly_reports.jpg) |
 | Image showing the official police badge of the newly formed police department | Yearly Reports as found in the document |
 
-
-However, most of the pages in the diary with the main information look like the following page: 
+- Monthly report of arrests and public service duties conducted by the police (more on this in the [Data section](/policedata/data). These are presented as follows:
 <p align="center">
     <img src="assets/img/monthly_example.jpg" />
 </p>
 
-One can see that the top left quadrant of the image highlights the demography of the arrests and lodgings provided. (For more details on what 'Lodgings' refers here, please take a look at this page_ **[ADD LINK TO THIS OR SOMETHING]. **_ For more details on how we use pages like these and turn them into a dateset, please visit the [Data page](/data).
+One can see that the top left quadrant of the image highlights the demography of the arrests and lodgings provided. (For more details on what 'Lodgings' refers here, please take a look at this page_ **[ADD LINK TO THIS OR SOMETHING]. **_ For more details on how we use pages like these and turn them into a dateset, please visit the [Data page](policedata/data).
 
 
 
