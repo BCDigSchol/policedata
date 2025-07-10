@@ -21,9 +21,10 @@ We have tabulated the data in the following format:
     <img src="assets/img/data_screenshot.png" />
 </p>
 
-## You can download the full data in a CSV format (can be opened in Excel) from [here](https://github.com/BCDigSchol/policedata/blob/main/data/police_data.csv)
+<p><br><br></p>
 
-<h2>Preview of the Dataset</h2>
+## Preview of the Dataset
+
 <table id="data-table" class="display"></table>
 
 <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
@@ -44,6 +45,7 @@ fetch('{{ "/data/data.json" | relative_url }}')
   });
 </script>
 
+Download the full data in a CSV format [here](https://github.com/BCDigSchol/policedata/blob/main/data/police_data.csv) (can be opened in Excel) 
   
 
 The dataset can feel overwhelming at first, if you don't know where to start we would recommend you to check out a few of the [interesting categories](policedata/interesting_categories) page for some ideas. Or you can also check out our [examples](/policedata/examples).
