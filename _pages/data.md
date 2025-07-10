@@ -31,7 +31,7 @@ We have tabulated the data in the following format:
 <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
 
 <script>
-fetch('{{ "/assets/data/data.json" | relative_url }}')
+fetch('{{ "/data/data.json" | relative_url }}')
   .then(response => response.json())
   .then(data => {
     const columns = Object.keys(data[0]).map(key => ({ title: key, data: key }));
