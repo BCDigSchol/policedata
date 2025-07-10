@@ -6,7 +6,7 @@ show-title: false
 <div class="person-container">
         <!-- Left side: Photo and caption -->
         <div class="person-photo-section">
-            <img src="/assets/img/Edward_Savage.png" 
+            <img src="{{ site.baseurl }}/assets/img/Edward_Savage.png"
                  alt="Portrait of Captain Edward H. Savage" 
                  class="person-photo">
             <div class="photo-caption">
