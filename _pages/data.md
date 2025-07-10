@@ -56,7 +56,7 @@ The dataset can feel overwhelming at first, if you don't know where to start we 
 ## Notes about data:
 
 We had to merge a few categories. We find it pertinent to share these details alongwith our reasoning of doing so. 
-However, if you want to know how the data was presented exactly in the record-book - please refer to the [Burns Library Archive's scans](https://library.bc.edu/iiif/view/MS2004_069_47581) directly. Here is a table of some of the merged categories that we aren't too sure of. 
+However, if you want to know how the data was presented exactly in the record-book - please refer to the [Burns Library Archive's scans](https://findingaids.bc.edu/repositories/2/archival_objects/47581) directly. Here is a table of some of the merged categories that we aren't too sure of. 
 
 | Category | Merged Category | Explanation |
 |---|---|---|
