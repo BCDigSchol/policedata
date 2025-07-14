@@ -21,7 +21,13 @@ nav-menu:
   - title: Resources
     link: resources
   - title: Data
-    link: data
+    submenu:
+      - title: Dataset Download
+        link: data
+      - title: Example 1
+        link: example1
+      - title: Example 2
+        link: example2
 
 # sets whether a search bar appears on the site header
 search-bar: false
