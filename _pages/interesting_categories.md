@@ -5,7 +5,7 @@ permalink: interesting_categories
 show-title: true
 ---
 
-In this page, we introduce explanations a few crime categories that were featured in the [police recprd book](https://findingaids.bc.edu/repositories/2/archival_objects/47581) and appeared consistently in it. We were interested because of two reasons: 
+In this page, we introduce explanations a few crime categories that were featured in the [police record book](https://findingaids.bc.edu/repositories/2/archival_objects/47581) and appeared consistently in it. We were interested because of two reasons: 
 <br> <span style="margin-left: 20px;">
  a. Their unfamiliarity to contemporary readers.</span>
 <br> <span style="margin-left: 20px;"> b. Many contemporary readers would not consider these as "crime" today.</span>
