@@ -6,11 +6,12 @@ show-title: false
 ---
 <center><h1>Boston Police Station Number One (North End) Monthly Reports <br> (June 1854-December 1859)</h1></center>
 
-<center><a href="https://raw.githubusercontent.com/BCDigSchol/policedata/main/data/police_data.csv" download>
+<center><a href="https://raw.githubusercontent.com/BCDigSchol/policedata/main/data/police_data.csv" target="_blank" rel="noopener" title="Opens raw CSV – right-click to Save As">
   <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">
-    Download Dataset (CSV)
+    View / Download CSV
   </button>
-</a></center>
+</a>
+</center>
 
 
 In this dataset, we have compiled the  monthly logs of Captain Edward H. Savage (1812-1893). It is derived from the archives available at [Burns Library](https://libguides.bc.edu/burns) at Boston College. We have turned the ledger of Captain Savage into a spreadsheet which allows it to be machine-readable and easy to work with. We have done this as follows:  
