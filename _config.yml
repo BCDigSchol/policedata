@@ -22,7 +22,7 @@ nav-menu:
     link: resources
   - title: Data
     submenu:
-      - title: Dataset Download
+      - title: Access the Dataset
         link: data
       - title: Example 1
         link: example1
