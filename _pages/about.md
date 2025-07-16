@@ -2,9 +2,11 @@
 layout: page
 title: About
 permalink: about
-show-title: true
+show-title: false
 ---
 
+
+# About This Project
 This website is a result of the project under [Institute for the Liberal Arts (ILA)](https://www.bc.edu/bc-web/academics/sites/ila.html) internship at [Boston College](https://www.bc.edu/) over Summer 2025. The project is supported by the [Digital Scholarship Group (BCDS)](https://ds.bc.edu/) at Boston College. 
 
 The primary source for this project is the [Boston Police Station Number One (North End) Captain's record book, 1854-1859](https://library.bc.edu/iiif/view/MS2004_069_47581), located in and digitized by the [Burns Library](https://libguides.bc.edu/burns) at Boston College. The record book was kept by Edward Hartwell Savage, than captain of the Boston Police Station Number One, which  corresponds to the North End neighborhood in Boston in late 19th century. Boston Police Department was established in May 1854, and the record book starts in June 1854. This means that the record book documents police activity in North End right after the police department was first professionally established in Boston. 
@@ -20,8 +22,4 @@ You can schedule a visit to the Burns Library reading room to access these docum
 
 
 
-
-**Duygun Ruben** is a PhD student in the Sociology department in Boston College. His research interests are AI and work, platform work and sociology of work.
-
-**Munirmahedi Paviwala** is a PhD student at history department. His research interests are environmental and economic history of Modern South Asia.
 
