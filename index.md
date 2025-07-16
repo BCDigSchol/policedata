@@ -49,7 +49,7 @@ The diary includes a lot of information about the police activities during this 
     <img src="assets/img/monthly_example.jpg" />
 </p>
 
-One can see that the top left quadrant of the image highlights the demography of the arrests and lodgings provided. (For more details on what 'Lodgings' refers here, please take a look at this page_ **[ADD LINK TO THIS OR SOMETHING]. **_ For more details on how we use pages like these and turn them into a dateset, please visit the [Data page](policedata/data).
+One can see that the top left quadrant of the image highlights the demography of the arrests and lodgings provided. For more details on how we use pages like these and turn them into a dateset, please visit the [Data page](policedata/data).
 
 ---
 
