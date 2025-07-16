@@ -53,3 +53,9 @@ plugins:
     - jekyll-postcss-v2
 
 
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+
