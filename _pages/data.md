@@ -72,6 +72,8 @@ The dataset can feel overwhelming at first, if you don't know where to start we 
 We had to merge a few categories. We find it pertinent to share these details alongwith our reasoning of doing so. 
 However, if you want to know how the data was presented exactly in the record-book - please refer to the [Burns Library Archive's scans](https://findingaids.bc.edu/repositories/2/archival_objects/47581) directly. Here is a table of some of the merged categories that we aren't too sure of. 
 
+First set of changes are:
+
 | Category | Merged Category | Explanation |
 |---|---|---|
 | Otherwise | Absent sick and otherwise | In the interest of helping researchers identify broader patterns from the data, <br>we merged the categories of "time lost by sickness" and <br>"otherwise" into absent sick and otherwise. You can check the data sample sheet <br>to see unmerged values for these categories |
@@ -82,3 +84,8 @@ However, if you want to know how the data was presented exactly in the record-bo
 | Defective fluid lamps reported | Defective Street Lamps Repaired/Reported | In the interest of helping researchers identify broader patterns from the data, <br>we merged the categories of "defective fluid lamps reported" and  "defective gas lamps reported" into a single category <br>named "defective street lamps reported."  You can check the data sample sheet to see <br>unmerged monthly values for these categories. |
 | Defective gas lamps reported | Defective Street Lamps Repaired/Reported | Same as above |
 | Defective Street Lamps Repaired | Defective Street Lamps Repaired/Reported | Same as above |
+
+
+Other non-substantial, but important to note changes are:
+
+Sometimes we changed a few categories to a standardised form. For instance: "Cases referred to Grand Jury" often appears in the later pages of the record book as just "Grand Jury". Usually, in earlier dates - we find the longer version of the category, but at later dates they are shortened, most likely to save space. Generally, we have tried to be as honest and close to the record book as possible. But at times, we made a few decisions like this so that we could aggregate the data over the whole time period. Such standardisation allows us to see larger patterns as shown in the [examples](/policedata/example1) page. For any such discrepancies, always refer to the scans or the archive as the authoritative source.  
