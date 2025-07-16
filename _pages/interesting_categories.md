@@ -5,22 +5,26 @@ permalink: interesting_categories
 show-title: true
 ---
 
-In this page, we introduce explanations a few crime categories that were featured in the [police record book](https://findingaids.bc.edu/repositories/2/archival_objects/47581) and appeared consistently in it. We were interested because of two reasons: 
+In the [police record book](https://findingaids.bc.edu/repositories/2/archival_objects/47581) there are a few categories that caught our attention. We were interested because of two reasons: 
 <br> <span style="margin-left: 20px;">
  a. Their unfamiliarity to contemporary readers.</span>
 <br> <span style="margin-left: 20px;"> b. Many contemporary readers would not consider these as "crime" today.</span>
+
+So we dug up a bit on a few of them:
   
-At the end of this page we introduce a broader list of such categories that could be explored further by those who are interested in this topic. 
+| Offence | Description of Offence | Source |
+|---------|----------------------|--------|
+| Common night walker | Category referring to sex workers; indicates criminalization of sex work in mid-19th century Boston. If convicted, offenders served six months in a "house of correction", "house of industry" or a "workhouse." | [1860 General Statutes of the Commonwealth of Massachusetts](https://archive.org/details/generalstatuteso1860mass/page/820/mode/2up) |
+| Idle and dissolute | Associated with begging and "persons who neglect all lawful business and habitually misspend their time by frequenting houses of ill fame, gaming houses, or tippling shops." | [1860 General Statutes of Commonwealth of Massachusetts](https://archive.org/details/generalstatuteso1860mass/page/818/mode/2up) |
+| Houses of ill fame | Referred to people who owned or administered brothels. Keeping a house of ill fame was punishable by imprisonment for a maximum of two years. | [1860 General Statutes of Commonwealth of Massachusetts](https://archive.org/details/generalstatuteso1860mass/page/818/mode/2up) |
+| Lascivious cohabitation | Primarily referred to couples who lived together but were unmarried. Listed as 'lewd and lascivious cohabitation' in statutes, where 'lewdness' might refer to homosexuality in the 19th century. Punishable by up to three years in state prison, up to two years in jail, or a fine of up to three hundred dollars. | [1860 General Statutes of Commonwealth of Massachusetts](https://archive.org/details/generalstatuteso1860mass/page/818/mode/2up) |
 
-**Common night walker** is a category that we consistently encountered in the police ledger. The category refers to sex workers. it appears as a consistent arrest category in the police ledger indicates the criminalization of sex work in mid-19th century in Boston. According to the [1860 General Statuses of the Commonwealth of Massachusets](https://archive.org/details/generalstatuteso1860mass/page/820/mode/2up), if convicted, common night walkers would be required to serve for six months in a “house of correction”, “house of industry” or a “workhouse.”
-
-**Idle and dissolute** is another interesting category of crime in the ledger. In the [1860 General Statuses of Commonwealth of Massachussets](https://archive.org/details/generalstatuteso1860mass/page/818/mode/2up), idleness and dissoluteness is associated with begging, as well as with “persons who neglect all lawful business and habitually misspend their time by frequenting houses of ill fame, gaming houses, or tippling shops.”
-
-**Houses of ill fame** as a crime category come up frequently in the document. A house of ill fame refers to brothels. The category referred to the people who owned or administered such houses. according to the [1860 General Statuses of Commonwealth of Massachussets](https://archive.org/details/generalstatuteso1860mass/page/818/mode/2up), keeping a house of ill fame was punishable by imprisonment for a maximum of two years. 
-
-**Lascivious cohabitation** is another interesting crime category that occurs frequently the records. From the descriptions in the [1860 General Statuses of Commonwealth of Massachussets](https://archive.org/details/generalstatuteso1860mass/page/818/mode/2up), we can infer that this category primarily refers to couples who live together but are unmarried. We have not found conclusive proof to definitely suggest that this also refers to homosexual couples. However, in the 1860 General statuses, the category is named as 'lewd and lascivious cohabitation', and  'lewdness' might be a way of referring to homosexuality in the 19th century. According to [1860 General statuses](https://archive.org/details/generalstatuteso1860mass/page/818/mode/2up), 'lewd and lascivious cohabitation' was punishable by up to three years in state prison, in jail up to two years, or by a fine of up to three hundred dollars. 
 
 **Other interesting categories**
+
+There are other categories that we found to be interesting, but were unable to research more about. We believe that you might want to research more about these, starting with google searches and then digging up some archives. Choose your adventure! 
+
+Here are a few (and there are many more in our [dataset](/policedata/data)):
 
 - Common Sellers
 - Female in male attire (also appears as 'women in men's clothing')
@@ -28,7 +32,7 @@ At the end of this page we introduce a broader list of such categories that coul
 - Indecent exposure
 - Dance Hall Exhibitions
 - Saturday evening law
-- Sunday Law
+- Sunday Law Violation
 - Lewdness
 - Vagabonds
 - Bigamy
