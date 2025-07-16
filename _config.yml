@@ -3,7 +3,7 @@ baseurl: "/policedata" # the name of your github repo
 url: "https://bcdigschol.github.io" # the url of your github pages (change BCDigSchol to your username)
 
 # site information used in page title, meta data etc.
-title: "Working Title"
+title: "North End Police Data (1854-59)"
 description: ILA Summer Internship Project using the Police Ledger from Burns
 
 
