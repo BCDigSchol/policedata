@@ -17,9 +17,11 @@ The [Burns Library](https://libguides.bc.edu/burns) possesses several other reso
 - [History of BPD by Edward H. Savage](https://bc.primo.exlibrisgroup.com/permalink/01BC_INST/1nm9l4s/alma99103343090001021)
 
 
-
 You can schedule a visit to the Burns Library reading room to access these documents in-person. Burns library is open to scholars and public to consult historical records. The timings for the visit and procedures can be found at the [Burns Library website.](https://libguides.bc.edu/burns) 
 
+## Acknowledgements
+
+We are deeply grateful to Ashlyn Stewart, Joanna Schroeder, Dave Thomas, Marta Crilly, Shelley Barber, and Melanie Hubbard for their invaluable support and thoughtful feedback throughout the course of this project. 
 
 
 
