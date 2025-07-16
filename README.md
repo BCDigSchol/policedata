@@ -2,8 +2,6 @@
 
 Working with the Burns Library dataset from 1855-59.
 
-Munirmahedi Paviwala and Duygun Ruben, Boston College
-
 ## About
 
 Put your project description here!
