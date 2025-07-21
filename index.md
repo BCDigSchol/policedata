@@ -4,10 +4,12 @@ title: Home
 show-title: false
 ---
 
+## North End Police Data (1854-59) 
+
 <div class="person-container">
         <!-- Left side: Photo and caption -->
         <div class="person-photo-section">
-            <img src="{{ site.baseurl }}/assets/img/monthly_example.jpg"
+            <img src="{{ site.baseurl }}/assets/img/badge.jpg"
                  alt="Example of site data" 
                  class="person-photo">
             <div class="photo-caption">
