@@ -9,7 +9,7 @@ show-title: false
 
 <center><h2>Boston Police Station Number One (North End) Monthly Reports <br> (June 1854-December 1859)</h2></center>
 
-<center><a href="https://raw.githubusercontent.com/BCDigSchol/policedata/main/data/police_data.csv" target="_blank" rel="noopener" title="Opens raw CSV – right-click to Save As">
+<center><a href="https://raw.githubusercontent.com/BCDigSchol/policedata/main/data/data_download.zip" target="_blank" rel="noopener" title="Download the Zip file">
   <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">
     View / Download CSV
   </button>
@@ -56,7 +56,7 @@ fetch('{{ "/data/data.json" | relative_url }}')
   });
 </script>
 
-<center><a href="https://raw.githubusercontent.com/BCDigSchol/policedata/main/data/police_data.csv" target="_blank" rel="noopener" title="Opens raw CSV – right-click to Save As">
+<center><a href="https://raw.githubusercontent.com/BCDigSchol/policedata/main/data/data_download.zip" target="_blank" rel="noopener" title="Opens raw CSV – right-click to Save As">
   <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">
     View / Download CSV
   </button>
