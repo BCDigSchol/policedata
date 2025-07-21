@@ -56,6 +56,8 @@ fetch('{{ "/data/data.json" | relative_url }}')
   });
 </script>
 
+<p> <br> <br> </p>
+
 <center><a href="https://raw.githubusercontent.com/BCDigSchol/policedata/main/data/data_download.zip" target="_blank" rel="noopener" title="Opens raw CSV – right-click to Save As">
   <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">
     View / Download CSV
@@ -63,7 +65,7 @@ fetch('{{ "/data/data.json" | relative_url }}')
 </a>
 </center>  
 
-The dataset can feel overwhelming at first, if you don't know where to start we would recommend you to check out a few of the [interesting categories](policedata/interesting_categories) page for some ideas. Or you can also check out our [examples](/policedata/examples).
+The dataset can feel overwhelming at first, if you don't know where to start we would recommend you to check out a few of the [interesting categories](/policedata/interesting_discoveries) page for some ideas. Or you can also check out our [examples](/policedata/example1).
 
 
 
