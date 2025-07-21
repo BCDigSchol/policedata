@@ -16,7 +16,7 @@ nav-menu:
     link: index
   - title: About
     submenu:
-    title: About the project
+    title: About This Project
     link: about
   - title: Interesting Discoveries
     link: interesting_discoveries
