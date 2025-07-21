@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About This Project
-permalink: about
+title: About This Website
+permalink: about_this_website
 show-title: false
 ---
 
