@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Resources
-permalink: resources
+title: Additional Resources
+permalink: additional_resources
 show-title: true
 ---
 The following resources can help you get started on finding more details about the city of Boston and its police during 1850s.
