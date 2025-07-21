@@ -10,7 +10,7 @@ show-title: false
                  alt="Portrait of Captain Edward H. Savage" 
                  class="person-photo">
             <div class="photo-caption">
-                Edward Hartwell Savage (1812-1893). The first captain of Boston Police Station Number One at North End | Photo from <a href="https://archive.org/details/bostonpolicedepa0000well/page/12/mode/2up">Wells, Donna M</a>
+                Edward Hartwell Savage (1812-1893). The first captain of Boston Police Station Number One at North End | Photo from <a href="https://archive.org/details/bostonpolicedepa0000well/page/12/mode/2up"> Wells, Donna M. Boston Police Department. Arcadia Publishing Inc, 2003.</a>
             </div>
         </div>
 
