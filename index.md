@@ -6,9 +6,13 @@ show-title: false
 
 ## North End Police Data (1854-59)
 
-<p>In 1865, Captain Savage wrote the book titled <em>A chronological history of the Boston watch and police, from 1631 to 1865; together with the Recollections of a Boston police office, or, Boston by daylight and gaslight, from the diary of an officer fifteen years in the service. By Edward H. Savage.</em></p>
-            
-<p> Above details about Captain Savage are generally known. But a less popular fact about Captain Savage is that he maintained a ledger for tracking arrests, crimes and public services provided by the new police force under his supervision. This website focuses on that ledger. We invite you to explore that ledger and find out more about the 19th century history of Boston police.</p>
+  
+<p>This site makes public the records of Captain Savage, who led one of Boston’s first police stations in the North End from 1854–1859.</p>
+
+<p>His meticulous log of arrests, crimes and the public service by the police offers a rare, ground-level view of city life and law enforcement in a rapidly changing American neighborhood.</p>
+
+<p>We’ve cleaned and organized this unique dataset so you can search, explore, and ask new questions.
+</p>
 
 ---
 
