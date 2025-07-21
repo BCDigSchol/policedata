@@ -3,7 +3,6 @@ layout: page
 title: Home
 show-title: false
 ---
-  <h2> North End Police Data (1854-59)</h2>
 
 <div class="person-container">
         <!-- Left side: Photo and caption -->
