@@ -18,8 +18,8 @@ nav-menu:
     submenu:
     title: About the project
     link: about
-  - title: Interesting Categories
-    link: interesting_categories
+  - title: Interesting Discoveries
+    link: interesting_discoveries
   - title: Additional Resources
     link: additional_resources
   - title: Data
