@@ -5,7 +5,7 @@ permalink: data
 show-title: false
 ---
 
-<center><h1> Access the Dataset <br> (June 1854-December 1859)</h1></center>
+<center><h1> Access the Dataset </h1></center>
 
 <center><h2>Boston Police Station Number One (North End) Monthly Reports <br> (June 1854-December 1859)</h2></center>
 
