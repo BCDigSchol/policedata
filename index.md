@@ -3,6 +3,34 @@ layout: page
 title: Home
 show-title: false
 ---
+
+<div class="person-container">
+        <!-- Left side: Photo and caption -->
+        <div class="person-photo-section">
+            <img src="{{ site.baseurl }}/assets/img/monthly_example.jpg"
+                 alt="Example of site data" 
+                 class="person-photo">
+            <div class="photo-caption">
+                Example page from the record book.
+            </div>
+        </div>
+
+        <!-- Right side: Content (this is where your markdown gets rendered) -->
+<div class="person-content">
+<p>This site brings to light the records of Captain Savage, who led one of Boston’s earliest police stations in the North End between 1854 and 1859. His meticulous logbook documents crimes, arrests and the public service work of a newly formed police force.</p>
+<p>More than just a list of incidents, these records offer a rare, ground-level view of how policing and urban life unfolded in one of America’s oldest neighborhoods during a period of rapid change.</p>
+        <p>To make this rich historical source easier to use, we’ve carefully cleaned and organized the data into a clear, searchable format—so you can explore the patterns, stories, and questions hidden in the original record book.
+</p>
+</div>
+</div>
+
+<p>In 1865, Captain Savage wrote the book titled <em>A chronological history of the Boston watch and police, from 1631 to 1865; together with the Recollections of a Boston police office, or, Boston by daylight and gaslight, from the diary of an officer fifteen years in the service. By Edward H. Savage.</em></p>
+            
+<p> Above details about Captain Savage are generally known. But a less popular fact about Captain Savage is that he maintained a ledger for tracking arrests, crimes and public services provided by the new police force under his supervision. This website focuses on that ledger. We invite you to explore that ledger and find out more about the 19th century history of Boston police.</p>
+
+
+
+---
 <div class="person-container">
         <!-- Left side: Photo and caption -->
         <div class="person-photo-section">
