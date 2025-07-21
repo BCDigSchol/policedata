@@ -4,7 +4,10 @@ title: Data
 permalink: data
 show-title: false
 ---
-<center><h1>Boston Police Station Number One (North End) Monthly Reports <br> (June 1854-December 1859)</h1></center>
+
+<center><h1> Access the Dataset <br> (June 1854-December 1859)</h1></center>
+
+<center><h2>Boston Police Station Number One (North End) Monthly Reports <br> (June 1854-December 1859)</h2></center>
 
 <center><a href="https://raw.githubusercontent.com/BCDigSchol/policedata/main/data/police_data.csv" target="_blank" rel="noopener" title="Opens raw CSV – right-click to Save As">
   <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">
