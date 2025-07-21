@@ -36,7 +36,7 @@ search-bar: false
 
 hide-footer: false # set to true to hide the footer
 #footer-message: Put Your Footer Message Here | CC BY-NC License
-footer-submessage: ILA internship with Digital Scholarship Group, Boston College
+footer-submessage: North End Police Data (1854-59)
 footer-submessage-link: https://ds.bc.edu
 
 # google-analytics: // if you want to use Google analytics, include your ID here
