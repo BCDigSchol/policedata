@@ -15,7 +15,7 @@ nav-menu:
   - title: Home
     link: index
   - title: About This Project
-   submenu:
+    submenu:
       - title: About the Source
         link: about_the_source
       - title: About Captain Savage
