@@ -4,11 +4,25 @@ title: Home
 show-title: false
 ---
 
-## North End Police Data (1854-59) 
+## North End Police Data (1854-59)
+
+
+This site makes public the records of Captain Savage, who led one of Boston’s first police stations in the North End from 1854–1859.
+His meticulous log of arrests, crimes and the public service by the police offers a rare, ground-level view of city life and law enforcement in a rapidly changing American neighborhood.
+We’ve cleaned and organized this unique dataset so you can search, explore, and ask new questions.
+
 
 <div class="person-container">
         <!-- Left side: Photo and caption -->
-        <div class="person-photo-section">
+       
+
+        <!-- Right side: Content (this is where your markdown gets rendered) -->
+<div class="person-content">
+<p>This site makes public the records of Captain Savage, who led one of Boston’s first police stations in the North End from 1854–1859.</p>
+<p>His meticulous log of arrests, crimes and the public service by the police offers a rare, ground-level view of city life and law enforcement in a rapidly changing American neighborhood.</p>
+        <p>We’ve cleaned and organized this unique dataset so you can search, explore and ask new questions.</p>
+</div>
+<div class="person-photo-section">
             <img src="{{ site.baseurl }}/assets/img/badge.jpg"
                  alt="Example of site data" 
                  class="person-photo">
@@ -17,13 +31,6 @@ show-title: false
             </div>
         </div>
 
-        <!-- Right side: Content (this is where your markdown gets rendered) -->
-<div class="person-content">
-<p>This site brings to light the records of Captain Savage, who led one of Boston’s earliest police stations in the North End between 1854 and 1859. <br> His meticulous logbook documents crimes, arrests and the public service work of a newly formed police force.</p>
-<p>More than just a list of incidents, these records offer a rare, ground-level view of how policing and urban life unfolded in one of America’s oldest neighborhoods during a period of rapid change.</p>
-        <p>To make this rich historical source easier to use, we’ve carefully cleaned and organized the data into a clear, searchable format—so you can explore the patterns, stories, and questions hidden in the original record book.
-</p>
-</div>
 </div>
 
 <p>In 1865, Captain Savage wrote the book titled <em>A chronological history of the Boston watch and police, from 1631 to 1865; together with the Recollections of a Boston police office, or, Boston by daylight and gaslight, from the diary of an officer fifteen years in the service. By Edward H. Savage.</em></p>
