@@ -14,22 +14,27 @@ theme-color: indigo # indigo|yellow|pink|green|stone|
 nav-menu:
   - title: Home
     link: index
-  - title: About
-    submenu:
-    title: About This Project
-    link: about
-  - title: Interesting Discoveries
-    link: interesting_discoveries
-  - title: Additional Resources
-    link: additional_resources
+  - title: About This Project
+   submenu:
+      - title: About the Source
+        link: about_the_source
+      - title: About Captain Savage
+        link: about_captain_savage
+      - title: About This Website
+        link: about_this_website
   - title: Data
+    link: data
+  - title: Analysis
     submenu:
-      - title: Access the Dataset
-        link: data
+
       - title: Example 1
         link: example1
       - title: Example 2
         link: example2
+      - title: Interesting Discoveries
+        link: interesting_discoveries
+      - title: Additional Resources
+        link:  additional_resources
 
 # sets whether a search bar appears on the site header
 search-bar: false
