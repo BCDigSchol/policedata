@@ -3,8 +3,6 @@ layout: page
 title: Home
 show-title: false
 ---
-
-## North End Police Data (1854-59)
 <div class="person-container">
         <!-- Left side: Photo and caption -->
         <div class="person-photo-section">
@@ -12,19 +10,21 @@ show-title: false
                  alt="Portrait of Captain Edward H. Savage" 
                  class="person-photo">
             <div class="photo-caption">
-                Edward Hartwell Savage (1812-1893). The first captain of Boston Police Station Number One at North End | Photo from <a href="https://archive.org/details/bostonpolicedepa0000well/page/12/mode/2up"> Wells, Donna M. Boston Police Department. Arcadia Publishing Inc, 2003.</a>
+                Edward Hartwell Savage (1812-1893)
             </div>
         </div>
 
         <!-- Right side: Content (this is where your markdown gets rendered) -->
 <div class="person-content">
-  
+
+  <h2> North End Police Data (1854-59)</h2>
 <p>This site makes public the records of Captain Savage, who led one of Boston’s first police stations in the North End from 1854–1859.</p>
 
 <p>His meticulous log of arrests, crimes and the public service by the police offers a rare, ground-level view of city life and law enforcement in a rapidly changing American neighborhood.</p>
 
 <p>We’ve cleaned and organized this unique dataset so you can search, explore, and ask new questions.
 </p>
+<small> Photo from <a href="https://archive.org/details/bostonpolicedepa0000well/page/12/mode/2up"> Wells, Donna M. Boston Police Department. Arcadia Publishing Inc, 2003.</a></small>
 </div>
 </div>
 
@@ -45,29 +45,28 @@ For your best experience, we suggest the following uses to different pages:
 ---
 ---
 
-## North End Police Data (1854-59)
-
+<center>  <h2> North End Police Data (1854-59)</h2></center>
 
 <div class="person-container">
         <!-- Left side: Photo and caption -->
-       
-
-        <!-- Right side: Content (this is where your markdown gets rendered) -->
-
-<div class="person-photo-section">
-            <img src="{{ site.baseurl }}/assets/img/badge.jpg"
-                 alt="Example of site data" 
+        <div class="person-photo-section">
+            <img src="{{ site.baseurl }}/assets/img/Edward_Savage.png"
+                 alt="Portrait of Captain Edward H. Savage" 
                  class="person-photo">
             <div class="photo-caption">
-                Example page from the record book.
+                Edward Hartwell Savage (1812-1893). The first captain of Boston Police Station Number One at North End | Photo from <a href="https://archive.org/details/bostonpolicedepa0000well/page/12/mode/2up"> Wells, Donna M. Boston Police Department. Arcadia Publishing Inc, 2003.</a>
             </div>
         </div>
 
-
+        <!-- Right side: Content (this is where your markdown gets rendered) -->
 <div class="person-content">
+
 <p>This site makes public the records of Captain Savage, who led one of Boston’s first police stations in the North End from 1854–1859.</p>
+
 <p>His meticulous log of arrests, crimes and the public service by the police offers a rare, ground-level view of city life and law enforcement in a rapidly changing American neighborhood.</p>
-        <p>We’ve cleaned and organized this unique dataset so you can search, explore and ask new questions.</p>
+
+<p>We’ve cleaned and organized this unique dataset so you can search, explore, and ask new questions.
+</p>
 </div>
 </div>
 
