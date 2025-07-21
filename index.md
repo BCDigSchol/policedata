@@ -19,7 +19,7 @@ show-title: false
 
         <!-- Right side: Content (this is where your markdown gets rendered) -->
 <div class="person-content">
-<p>This site brings to light the records of Captain Savage, who led one of Boston’s earliest police stations in the North End between 1854 and 1859. His meticulous logbook documents crimes, arrests and the public service work of a newly formed police force.</p>
+<p>This site brings to light the records of Captain Savage, who led one of Boston’s earliest police stations in the North End between 1854 and 1859. <br> His meticulous logbook documents crimes, arrests and the public service work of a newly formed police force.</p>
 <p>More than just a list of incidents, these records offer a rare, ground-level view of how policing and urban life unfolded in one of America’s oldest neighborhoods during a period of rapid change.</p>
         <p>To make this rich historical source easier to use, we’ve carefully cleaned and organized the data into a clear, searchable format—so you can explore the patterns, stories, and questions hidden in the original record book.
 </p>
