@@ -26,7 +26,6 @@ nav-menu:
     link: data
   - title: Analysis
     submenu:
-
       - title: Example 1
         link: example1
       - title: Example 2
