@@ -56,9 +56,15 @@ fetch('{{ "/data/data.json" | relative_url }}')
   });
 </script>
 
-<p> </p>
+<p> <br> </p>
 
-<center><a href="https://raw.githubusercontent.com/BCDigSchol/policedata/main/data/data_download.zip" target="_blank" rel="noopener" title="Opens raw CSV – right-click to Save As">
+
+<center><a href="https://raw.githubusercontent.com/BCDigSchol/policedata/main/data/data_download.zip" target="_blank" rel="noopener" title="Download the Zip file">
+  <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">
+Download CSV
+  </button>
+</a>
+</center>
   <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">
     View / Download CSV
   </button>
