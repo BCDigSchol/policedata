@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About This Project
 permalink: about
 show-title: false
 ---
