@@ -30,7 +30,7 @@ One can see that the top left quadrant of the image highlights the demography of
 
 ---
 
-## Why is this archive important?
+## Why is this record book important?
 
 Captain Savage's ledger isn't just another old record book – it's a goldmine of information that you simply can't find anywhere else. Here's why this collection matters:
 
