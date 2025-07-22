@@ -21,7 +21,7 @@ The diary includes:
 | ![police badge](assets/img/badge.jpg) | ![Yearly Reports](assets/img/yearly_reports.jpg) |
 | Image showing the official police badge of the newly formed police department | Yearly Reports as found in the document |
 
-- Monthly report of arrests and public service duties conducted by the police (more on this in the [Data section](/policedata/data). These are presented as follows:
+- Monthly report of arrests and public service duties conducted by the police (more on this in the [Data section](/policedata/data)). These are presented as follows:
 <p align="center">
     <img src="assets/img/monthly_example.jpg" />
 </p>
