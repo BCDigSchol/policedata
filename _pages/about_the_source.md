@@ -5,7 +5,7 @@ permalink: about_the_source
 show-title: true
 ---
 
-The primary source for this project is the [Boston Police Station Number One (North End) Captain's record book, 1854-1859](http://hdl.handle.net/2345.2/MS2004_069_47581), located in and digitized by the [Burns Library](https://libguides.bc.edu/burns) at Boston College. The record book was kept by Edward Hartwell Savage, the then captain of the Boston Police Station Number One, which corresponds to the North End neighborhood in Boston in late 19th century(For more details check [About Captain Savage](/policedata/about_captain_savage)).
+The primary source for this project is the [Boston Police Station Number One (North End) Captain's record book, 1854-1859](http://hdl.handle.net/2345.2/MS2004_069_47581), located in and digitized by the [Burns Library](https://libguides.bc.edu/burns) at Boston College. The record book was kept by Edward Hartwell Savage, the then captain of the Boston Police Station Number One, which corresponds to the North End neighborhood in Boston in late 19th century (For more details check [About Captain Savage](/policedata/about_captain_savage)).
 
 Boston Police Department was established in May 1854, and the record book starts in June 1854. Thus, this record book documents the police activity of the  first professionally established police department in Boston. 
 
