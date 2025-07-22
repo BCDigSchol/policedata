@@ -11,7 +11,7 @@ Boston Police Department was established in May 1854, and the record book starts
 
 
 The diary includes: 
-- Monthly report of arrests and public service duties conducted by the police (more on this in the [Data section](/policedata/data)
+- Monthly report of arrests and public service duties conducted by the police (more on this in the [Data section](/policedata/data))
 - Yearly reports summarizing the same data as above
 - Details about the names and addresses of the police officers
 - Updates about the number of stores (for instance, how many tailor shops in the police precinct area, etc.)
