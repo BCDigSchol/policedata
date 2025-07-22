@@ -14,7 +14,7 @@ The diary includes:
 - Monthly report of arrests and public service duties conducted by the police (more on this in the [Data section](/policedata/data))
 - Yearly reports summarizing the same data as above
 - Details about the names and addresses of the police officers
-- Updates about the number of stores (for instance, how many tailor shops in the police precinct area, etc.)
+- The inventory of businesses and other types of stores in North End for some years(for instance, how many tailor shops in the police precinct area, etc.)
 - Hierarchical structure of police during this time and the name of the person holding the top offices, including the mayor. 
 - Drawings of the official police badge from the time period.
 
