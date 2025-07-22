@@ -67,7 +67,7 @@ Download CSV
 </center>
 
 
-The dataset can feel overwhelming at first, if you don't know where to start we would recommend you to check out a few of the [interesting categories](/policedata/interesting_discoveries) page for some ideas. Or you can also check out our [examples](/policedata/example1).
+The dataset can feel overwhelming at first, if you don't know where to start we would recommend you to check out a few of the [interesting discoveries](/policedata/interesting_discoveries) page for some ideas. Or you can also check out our [examples](/policedata/example1).
 
 
 
