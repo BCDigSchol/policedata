@@ -6,7 +6,7 @@ show-title: true
 ---
 
 
-This website is a result of the project under [Institute for the Liberal Arts (ILA)](https://www.bc.edu/bc-web/academics/sites/ila.html) internship at [Boston College](https://www.bc.edu/) over Summer 2025. The project is supported by the [Digital Scholarship Group (BCDS)](https://ds.bc.edu/) at Boston College.
+This website is a result of the project under [Institute for the Liberal Arts (ILA)](https://www.bc.edu/bc-web/academics/sites/ila.html) internship at [Boston College](https://www.bc.edu/) over Summer 2025. The project is supported and hosted by the [Boston College Digital Scholarship Group (BCDS)](https://ds.bc.edu/).
 
 
 ## Acknowledgements
