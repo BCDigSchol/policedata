@@ -5,12 +5,14 @@ permalink: interesting_discoveries
 show-title: true
 ---
 
-In the [police record book](https://findingaids.bc.edu/repositories/2/archival_objects/47581) there are a few categories that caught our attention. We were interested because of two reasons: 
+In the [police record book](https://findingaids.bc.edu/repositories/2/archival_objects/47581) there are a few categories that caught our attention. We believe that you might be interested in these too.
+
+We were primarily interested because of two reasons: 
 <br> <span style="margin-left: 20px;">
  a. Their unfamiliarity to contemporary readers.</span>
 <br> <span style="margin-left: 20px;"> b. Many contemporary readers would not consider these as "crime" today.</span>
 
-So we dug up a bit on a few of them:
+So we searched around and found these:
   
 | Offense | Description of Offense | Source |
 |---------|----------------------|--------|
@@ -24,11 +26,11 @@ So we dug up a bit on a few of them:
 
 There are other categories that we found to be interesting, but were unable to research more about. We believe that you might want to research more about these, starting with google searches and then digging up some archives. Choose your adventure! 
 
-Here are a few (and there are many more in our [dataset](/policedata/data)):
+Here are a few (and there are many more in the [dataset](/policedata/data)):
 
 - Common Sellers
-- Female in male attire (also appears as 'women in men's clothing')
-- Keeping noisy and disorderly houses (also appears as 'keeping noisy houses')
+- Female in male attire (sometimes appears as 'women in men's clothing')
+- Keeping noisy and disorderly houses (sometimes appears as 'keeping noisy houses')
 - Indecent exposure
 - Dance Hall Exhibitions
 - Saturday evening law
@@ -36,4 +38,4 @@ Here are a few (and there are many more in our [dataset](/policedata/data)):
 - Lewdness
 - Vagabonds
 - Bigamy
-- Stubborn and truant children (also appears as 'stubborn children and as truants')
+- Stubborn and truant children (sometimes appears as 'stubborn children' or just 'truants')
