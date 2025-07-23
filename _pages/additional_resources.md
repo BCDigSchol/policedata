@@ -29,5 +29,5 @@ For general details about Boston during this time period:
 - [A treasure trove of documents around legislations in Boston ](https://guides.bpl.org/BostonReports/documents) available at City of Boston Archive.
 - [Old Maps of Boston from Norman B. Leventhal Map & Education Center](https://www.bpl.org/resources-types/maps/) at Boston Public Library are a fantastic resource as well.
 
-Overall, we hope that these will help you find the details you need when working with our [dataset.](/policedata/data) 
+Overall, we hope that these will help you find the relevant historical context you might need when working with the [dataset.](/policedata/data) 
  
