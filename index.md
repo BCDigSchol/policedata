@@ -20,7 +20,7 @@ show-title: false
 
   <h2> North End Police Data (1854-59)</h2>
   
-<p>This site is based on the records of Captain Savage, who led one of the first police stations of Boston in the North End from 1854–1859.</p>
+<p>This site is based on the <a href="https://findingaids.bc.edu/repositories/2/resources/201">records of Captain Savage</a>, who led one of the first police stations of Boston in the North End from 1854–1859.</p>
 
 <p>His meticulous log of arrests, crimes and the public service by the police offers a rare, ground-level view of city life and law enforcement in a rapidly changing American neighborhood.</p>
 
