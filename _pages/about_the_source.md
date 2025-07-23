@@ -10,16 +10,16 @@ The primary source for this project is the [Boston Police Station Number One (No
 Boston Police Department was established in May 1854, and the record book starts in June 1854. Thus, this record book documents the police activity of the  first professionally established police department in Boston. 
 
 
-The diary includes: 
+The ledger includes: 
 - Monthly report of arrests and public service duties conducted by the police (more on this in the [Data section](/policedata/data))
 - Yearly reports summarizing the same data as above
-- Details about the names and addresses of the police officers
-- The inventory of businesses and other types of stores in North End for some years(for instance, how many tailor shops in the police precinct area, etc.)
-- Hierarchical structure of police during this time and the name of the person holding the top offices, including the mayor. 
-- Drawings of the official police badge from the time period.
+- Names and address of the then active police officers
+- Inventory of businesses and types of stores in North End for a select years. (For instance, how many tailor shops in the area under police station, etc.)
+- Hierarchical structure of police during this time with the names of officers holding the top offices, including the mayor of the city of Boston. 
+- Drawings of the official police badge.
 
 | ![police badge](assets/img/badge.jpg) | ![Yearly Reports](assets/img/yearly_reports.jpg) |
-| Image showing the official police badge of the newly formed police department | Yearly Reports as found in the document |
+| Image showing the official police badge of the newly formed police department | An instance of the Yearly Reports as found in the document |
 
 - Monthly report of arrests and public service duties conducted by the police (more on this in the [Data section](/policedata/data)). These are presented as follows:
 <p align="center">
@@ -38,7 +38,7 @@ Captain Savage's ledger isn't just another old record book – it's a goldmine o
 
 * **Incredibly detailed and well-organized records.** Savage was meticulous about his record-keeping. His ledger gives us a systematic look at arrests, crimes, and public services in Boston's North End during the 1850s. The level of detail is remarkable – you can see crime patterns and understand how the new police force was finding its footing.
 
-* **A window into 1850s Boston life.** Beyond just police work, these records capture daily life in one of Boston's most vibrant neighborhoods. You'll find stories of ordinary people dealing with extraordinary times – a city transforming from colonial town to modern metropolis.
+* **A window into 1850s Boston life.** Beyond just police work, these records capture daily life in one of Boston's most vibrant neighborhoods. It is a part of the story of a city transforming from colonial town to modern metropolis.
 
 * **Missing piece of American policing history.** The Burns Library dataset from 1855-59 covers those crucial early years when cities across America were figuring out how to do modern policing. Boston was among the first, and Captain Savage's records show us how they actually made it work.
 
