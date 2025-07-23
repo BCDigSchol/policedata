@@ -35,6 +35,7 @@ show-title: false
 ## How to use this site?
 
 For your best experience, we suggest the following uses to different pages:
+- Detailed contexts about the different aspects of the project can be found at the [About the Source](/policedata/about_the_source). A bit [About Captain Savage](/policedata/about_captain_savage) can also help contextualise the origin of the ledger used. 
 - [Data page](/policedata/data): This is the heart of our website. It shows how we have made this dataset from the diary. And it shows you how you can download this dataset. 
 - Example pages ([Example 1](/policedata/example1) and [Example 2](/policedata/example2)): These pages are some of the ways in which you can use the data to deepen your understanding of the 19th century police work in Boston. This just scratches the surface of what is possible with a dataset like this.   
 - [Interesting Discoveries page ](/policedata/interesting_discoveries)- is a selection of a few crime categories that we believe might be super interesting to explore as a historian. There is a lot of eye-catching stuff that can be found in this dataset, but these few categories, along with the example pages might help you start playing around with the data. 
